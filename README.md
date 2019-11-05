@@ -1,4 +1,3 @@
 # hello-world
-test of making a repository
 
-I just returned from Jordan
+This is a second test
